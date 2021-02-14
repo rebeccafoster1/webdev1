@@ -23,9 +23,9 @@
  h3 {
      font-family: Arial;
      background: rgb(126, 34, 34);
-     border-top: rgba(129, 108, 108, 0.808) solid 30px;
-     border-left:rgba(95, 85, 85, 0.808) solid 70px;
-     border-right: rgba(95, 85, 85, 0.808) solid 70px;
+     border-top: grey solid 30px;
+     border-left:grey solid 70px;
+     border-right: grey solid 70px;
      padding-top: 15px;
      padding-bottom: 15px;
      padding-left: 20px;
@@ -36,8 +36,8 @@
   p {
      font-family: Arial;
      background: rgb(204, 103, 103);
-     border-left:rgba(95, 85, 85, 0.808) solid 70px;
-     border-right: rgba(95, 85, 85, 0.808) solid 70px;
+     border-left:grey solid 70px;
+     border-right: grey solid 70px;
      padding-bottom: 20px;
      padding-left: 20px;
      padding-top: 10px;
@@ -49,13 +49,7 @@
      padding-top: 10px;
      padding-bottom: 10px;
      text-align: center;
-     border-top:rgba(95, 85, 85, 0.808) solid 30px;
-     border-bottom: rgba(95, 85, 85, 0.808) solid 100px;
+     border-top:grey solid 30px;
+     border-bottom:grey solid 100px;
      margin-top: -20px;
  }
-
-
-
-
-
-
