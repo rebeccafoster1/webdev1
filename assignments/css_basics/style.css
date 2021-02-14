@@ -1,0 +1,61 @@
+ h1 {
+    font-family: Arial;
+     background: rgb(122, 91, 4);
+     border-top: 20px black solid;
+     text-align: center;
+     margin-top: -15px;
+     margin-bottom: 0;
+     padding-top: 10px;
+     padding-bottom: 10px;
+  }  
+
+ h2 {
+     font-family: Arial;
+     background-color: rgba(230, 194, 39, 0.938);
+     border-bottom: black 15px solid;
+     margin-top: 0px;
+     margin-bottom: 20px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     text-align: center;
+  }
+
+ h3 {
+     font-family: Arial;
+     background: rgb(126, 34, 34);
+     border-top: rgba(129, 108, 108, 0.808) solid 30px;
+     border-left:rgba(95, 85, 85, 0.808) solid 70px;
+     border-right: rgba(95, 85, 85, 0.808) solid 70px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     padding-left: 20px;
+     margin-top: -20px;
+     margin-bottom: -20px;
+  }
+
+  p {
+     font-family: Arial;
+     background: rgb(204, 103, 103);
+     border-left:rgba(95, 85, 85, 0.808) solid 70px;
+     border-right: rgba(95, 85, 85, 0.808) solid 70px;
+     padding-bottom: 20px;
+     padding-left: 20px;
+     padding-top: 10px;
+  }
+
+ h4 {
+     font-family: Arial;
+     background:rgba(209, 209, 88, 0.774);
+     padding-top: 10px;
+     padding-bottom: 10px;
+     text-align: center;
+     border-top:rgba(95, 85, 85, 0.808) solid 30px;
+     border-bottom: rgba(95, 85, 85, 0.808) solid 100px;
+     margin-top: -20px;
+ }
+
+
+
+
+
+
