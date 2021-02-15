@@ -1,55 +1,52 @@
- h1 {
-    font-family: Arial;
-     background: rgb(122, 91, 4);
-     border-top: 20px black solid;
-     text-align: center;
-     margin-top: -15px;
-     margin-bottom: 0;
-     padding-top: 10px;
-     padding-bottom: 10px;
-  }  
+ * {margin: 0px; box-sizing: border-box; padding: 0px;}
 
- h2 {
-     font-family: Arial;
-     background-color: rgba(230, 194, 39, 0.938);
-     border-bottom: black 15px solid;
-     margin-top: 0px;
-     margin-bottom: 20px;
-     padding-top: 10px;
-     padding-bottom: 10px;
-     text-align: center;
-  }
+header{
+    background: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
- h3 {
-     font-family: Arial;
-     background: rgb(126, 34, 34);
-     border-top: grey solid 30px;
-     border-left:grey solid 70px;
-     border-right: grey solid 70px;
-     padding-top: 15px;
-     padding-bottom: 15px;
-     padding-left: 20px;
-     margin-top: -20px;
-     margin-bottom: -20px;
-  }
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   background:rgba(17, 3, 3, 0.863);
+}
 
-  p {
-     font-family: Arial;
-     background: rgb(204, 103, 103);
-     border-left:grey solid 70px;
-     border-right: grey solid 70px;
-     padding-bottom: 20px;
-     padding-left: 20px;
-     padding-top: 10px;
-  }
+h1{
+  text-align: center;
+  background: grey;
+  padding: 15px;
+  margin-bottom: 0px;
+} 
 
- h4 {
-     font-family: Arial;
-     background:rgba(209, 209, 88, 0.774);
-     padding-top: 10px;
-     padding-bottom: 10px;
-     text-align: center;
-     border-top:grey solid 30px;
-     border-bottom:grey solid 100px;
-     margin-top: -20px;
- }
+h2{
+  text-align:center;
+  background: gainsboro;
+  padding:10px;
+  margin: 0px;
+}
+
+section{
+   background: rgb(61, 47, 47);
+   padding: 20px;
+}
+
+p{
+   background: rgb(197, 100, 100);
+   padding: 10px;
+   margin-left: 25px;
+   margin-right: 30px;
+   font-size: 15px;
+}
+
+h3{
+   background: rgb(121, 65, 65);
+   padding: 10px;
+   margin-left: 25px;
+   margin-right: 30px;
+}
+
+footer{
+   background: rgb(61, 47, 47);
+   text-align: center;
+   margin-bottom: 50px;
+}
