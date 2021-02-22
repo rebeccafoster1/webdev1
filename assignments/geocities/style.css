@@ -1,0 +1,73 @@
+* {margin: 0px; box-sizing: border-box; padding: 0px;}
+
+header{
+    background:black;
+    padding: 20px;
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body { 
+    background-image: url(images/pawprints.jpg);
+}
+
+h1 {
+    background: coral;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background: black;
+    padding: 20px;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    background: rgba(235, 220, 13, 0.904);
+    padding:40px;
+    font-size: 30px;
+}
+
+p{
+    background: #ebeb71;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.paw-trail { 
+    position:absolute;
+    left: 37%;
+    height: 15px;
+}
+
+.dog-running {
+   position:relative;
+   height: 40px;
+}
+
+footer {
+    background-color: black;
+    margin: 50px;
+    padding: 20px; 
+}
+
+.paws-gifs {
+    position: relative;
+    height: 40px;
+    width: 100%;
+}
+
+
+
