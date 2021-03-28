@@ -1,6 +1,10 @@
+body{
+    background-color: rgb(167, 141, 141);
+}
+
 h1{
     text-align: center;
-    font-size: 60px;
+    font-size: 90px;
 }
 h2{
     font-size: 50px;
