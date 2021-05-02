@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/person.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 3.5em;
+    background-color: black;
+    padding: .3em;
+}
+ul{ text-align: right;
+    list-style-type:none;
+}
+ul li{
+    display: inline-block;
+    margin: 1em;
+}
+ul li a{
+    color: white;
+    text-decoration:none;
+    font-size: 1.5em;
+}
